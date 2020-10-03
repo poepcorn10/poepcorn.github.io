@@ -1,0 +1,103 @@
+                        .top-wrapper {
+                            height: 140%;
+                            width: 100%;
+                            background-image: url(moroccan-flower.png);
+                            opacity: 0.5px;
+                        }
+                        
+                        .header-right a {
+                            color: white;
+                            background-color: rgb(98, 243, 54);
+                            display: inline-block;
+                            box-shadow: 3px 3px rgb(51, 102, 18);
+                            top: 20px;
+                            font-size: 30px;
+                            border-radius: 4px;
+                        }
+                        
+                        .header-right a:active {
+                            position: relative;
+                            top: 5px;
+                            box-shadow: none;
+                            background-color: rgb(98, 243, 54);
+                            border-radius: 4px;
+                        }
+                        
+                        .tulisanjudul h1 {
+                            color: rgb(240, 255, 30);
+                            background-size: 60px;
+                            background-color: lightskyblue;
+                            top: 30px;
+                            bottom: 10px;
+                            font-size: 60px;
+                            text-align: center;
+                        }
+                        
+                        .tulisanjudul h2 {
+                            margin: 5px;
+                            color: red;
+                            font-size: 40px;
+                            text-align: center;
+                            font-weight: 3px;
+                            letter-spacing: 3px;
+                        }
+                        
+                        .tulisanjudul {
+                            line-height: 50px;
+                        }
+                        
+                        .subjudul {
+                            border-top: 5px;
+                            font-size: 20px;
+                            font-weight: 6px;
+                            text-align: center;
+                            margin: 10px;
+                        }
+                        
+                        .btn-wrapper1 {
+                            background-image: url(geometric-leaves.png);
+                            width: 100%;
+                            text-align: center;
+                            float: left;
+                            font-size: 20px;
+                        }
+                        
+                        .btn-wrapper2 {
+                            background-image: url(geometric-leaves.png);
+                            width: 100%;
+                            text-align: center;
+                            float: left;
+                            font-size: 20px;
+                        }
+                        
+                        .signup {
+                            background-color: rgb(253, 217, 9);
+                            display: inline-block;
+                            width: 180px;
+                            height: 24px;
+                            box-shadow: 3px 3px 3px rgb(197, 170, 14);
+                            border-radius: 4px;
+                        }
+                        
+                        .btn-wrapper1 a:active {
+                            position: relative;
+                            box-shadow: none;
+                            background-color: rgb(253, 217, 9);
+                        }
+                        
+                        .facebook {
+                            background-color: rgb(43, 223, 255);
+                            display: inline-block;
+                            width: 210px;
+                            height: 25px;
+                            box-shadow: 3px 3px 3px rgb(13, 155, 190);
+                            border-radius: 4px;
+                        }
+                        
+                        .btn-wrapper2 a:active {
+                            position: relative;
+                            top: 5px;
+                            box-shadow: none;
+                            background-color: rgb(43, 223, 255);
+                            border-radius: 4px;
+                        }
